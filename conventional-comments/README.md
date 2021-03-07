@@ -6,4 +6,4 @@
 
 After installing the workflow, activate Alfred, type `cc`, and select the label from the menu.
 
-[Demo video](video/demo.mp4)
+![Demo animation](img/cc-demo.gif)
